@@ -5,6 +5,8 @@
 	<link href="site.css" rel="stylesheet">
 	</head>
 <body>
+	<div><?php include("banner.php");
+	echo $banners[0] ?></div>
 	<?php include("header.php"); ?>
 	<div id="main">
 	<h1>Gadgets</h1>
