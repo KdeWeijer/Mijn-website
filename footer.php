@@ -1,0 +1,1 @@
+<p>&copy; <?php echo date("Y"); ?> de hond is ook in de uitverkoop</p>
